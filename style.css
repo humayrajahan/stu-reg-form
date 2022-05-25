@@ -1,0 +1,27 @@
+.round-img{
+    border-radius: 50%;
+}
+
+.bg-img{
+    background-image: url(img/bg4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.h-550{
+    height: 480px;
+}
+
+.text-sky{
+    color: rgb(64, 147, 172);
+}
+
+.bg-sky{
+    background-color: rgb(37, 84, 99);
+}
+
+.table-scrol{
+    height: 450px;
+    overflow: scroll;
+}
